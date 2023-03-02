@@ -1,29 +1,4 @@
-## Hi! I'm Alisson Delatim, fullstack javascript developer 🧑‍💻🚀.
-
-<div>
-  <a href="https://github.com/alissondel">
-    <img hewight="180em" src="https://github-readme-stats.vercel.app/api?username=alissondel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-     <img hewight="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissondel&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
-
-<h3>Tecnologias que eu utilizo:</h3>
-
-<div style="display: inline_block"><br>
-  <img align="center" title="VSCode" alt="Alisson-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" title="Javascript" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="Typescript" alt="Alisson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" title="ReactJS" alt="Alisson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" title="NextJS" alt="Alisson-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
-  <img align="center" title="NodeJS" alt="Alisson-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" title="NESTJS" alt="Alisson-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" title="GraphQL" alt="Alisson-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-  <img align="center" title="PostgreSQL" alt="Alisson-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
-</div>
-
-###
-
-<h3>Minhas redes sociais:</h3>
+### Hi! I'm Alisson Delatim, fullstack javascript developer 🧑‍💻🚀.
 
 <div>
   <a href="https://www.facebook.com/alisson.delatim" target="_blank">
@@ -39,6 +14,31 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> 
   </a>
 </div>
+
+###
+
+<div>
+  <a href="https://github.com/alissondel">
+    <img hewight="180em" src="https://github-readme-stats.vercel.app/api?username=alissondel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+     <img hewight="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissondel&layout=compact&langs_count=16&theme=dracula" />
+  </a>
+</div>
+
+## Technologies i use in my daily life:
+
+<div style="display: inline_block"><br>
+  <img align="center" title="VSCode" alt="Alisson-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" title="Javascript" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="Typescript" alt="Alisson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" title="ReactJS" alt="Alisson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" title="NextJS" alt="Alisson-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
+  <img align="center" title="NodeJS" alt="Alisson-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="NESTJS" alt="Alisson-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" title="GraphQL" alt="Alisson-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+  <img align="center" title="PostgreSQL" alt="Alisson-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
+</div>
+
+
 
 <!-- - 💻 I’m currently working on ...
 - 🌱 I’m currently learning ...
