@@ -24,7 +24,7 @@
   </a>
 </div>
 
-## Technologies i use in my daily life:
+## Technologies I use in my daily life:
 
 <div style="display: inline_block"><br>
   <img align="center" title="VSCode" alt="Alisson-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
