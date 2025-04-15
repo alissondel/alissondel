@@ -4,6 +4,7 @@
   <a href="https://github.com/alissondel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissondel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissondel&layout=compact&langs_count=6&theme=tokyonight"/>
+  <br />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="ReactJS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1920px-Nextjs-logo.svg.png" width="120" alt="NextJS">
   <img src="https://img.icons8.com/color/2x/html-5.png](https://upload.wikimedia.org/wikipedia/commons/7/70/Font_Awesome_5_brands_node-js.svg" width="120" alt="NODEJS">
